@@ -30,7 +30,7 @@ html, body, section, .page {
   transition: all 1s cubic-bezier(.5, -0.005, 0.2, 1) !important;
   -webkit-transition: all 1s cubic-bezier(.5, -0.005, 0.2, 1) !important;
   color: #fff;
-  background-image: url(../img/home-bg.png);
+  background-image: url(../img/background.gif);
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
