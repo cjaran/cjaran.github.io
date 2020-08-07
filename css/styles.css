@@ -2391,7 +2391,6 @@ textarea.form-control {
 }
 
 .form-inline {
-  display: flex;
   flex-flow: row wrap;
   align-items: center;
 }
@@ -2435,7 +2434,7 @@ textarea.form-control {
     position: relative;
     flex-shrink: 0;
     margin-top: 0;
-    margin-right: 0.25rem;
+    margin-right: 0;
     margin-left: 0;
   }
   .form-inline .custom-control {
